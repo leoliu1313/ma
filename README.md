@@ -87,6 +87,8 @@ P                  C
 
 - https://zh.wikibooks.org/zh-hant/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%87%E4%B8%AD%E9%9A%8E/%E4%BE%9D%E7%85%A7%E7%89%8C%E7%90%86%E6%89%93%E7%89%8C
 - http://www.gametower.com.tw/Games/Freeplay/MJ/Star31/Data/teach.aspx
+- https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E5.89.AF.E9.9C.B2.E7.9A.84.E4.B8.8D.E5.88.A9
+- https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E6.9D.A0.E7.9A.84.E6.9C.89.E5.88.A9.E4.B8.8E.E4.B8.8D.E5.88.A9.E4.B9.8B.E5.A4.84
 
 ## References
 
