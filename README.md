@@ -4,6 +4,14 @@
 
 麻將原稱麻雀 民國初年由大陸傳入台灣 慢慢地從廣東的十三張玩法演變成台灣的十六張玩法 麻將大致上有北京/南昌/廣東/香港/日本等幾種分支 但台灣麻將有一些從古至今全世界都沒有的限制: 過水不可胡牌的限制 碰槓的限制 自摸的更多限制
 
+## Strategy
+
+- [依照牌理打牌](https://zh.wikibooks.org/zh-hant/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%87%E4%B8%AD%E9%9A%8E/%E4%BE%9D%E7%85%A7%E7%89%8C%E7%90%86%E6%89%93%E7%89%8C)
+- http://www.gametower.com.tw/Games/Freeplay/MJ/Star31/Data/teach.aspx
+- https://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=00
+- [吃碰槓的不利](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E5.89.AF.E9.9C.B2.E7.9A.84.E4.B8.8D.E5.88.A9)
+- [槓的不利](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E6.9D.A0.E7.9A.84.E6.9C.89.E5.88.A9.E4.B8.8E.E4.B8.8D.E5.88.A9.E4.B9.8B.E5.A4.84)
+
 ## Rules
 
 - https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%BA%BB%E5%B0%87
@@ -126,14 +134,6 @@ P                  C
 - 不可以讓牌的側面接觸到桌面
 - 不可以將自摸的牌舉起超過頭部的高度
 - 不可以讓任一張牌掉落
-
-## Strategy
-
-- [依照牌理打牌](https://zh.wikibooks.org/zh-hant/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%87%E4%B8%AD%E9%9A%8E/%E4%BE%9D%E7%85%A7%E7%89%8C%E7%90%86%E6%89%93%E7%89%8C)
-- http://www.gametower.com.tw/Games/Freeplay/MJ/Star31/Data/teach.aspx
-- https://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=00
-- [吃碰槓的不利](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E5.89.AF.E9.9C.B2.E7.9A.84.E4.B8.8D.E5.88.A9)
-- [槓的不利](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E6.9D.A0.E7.9A.84.E6.9C.89.E5.88.A9.E4.B8.8E.E4.B8.8D.E5.88.A9.E4.B9.8B.E5.A4.84)
 
 ## References
 
