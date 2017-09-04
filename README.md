@@ -21,7 +21,7 @@
 - http://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=1
 - http://atawmj.org.tw/memu012.htm
 
-除了"牌被抓"的順序是順時鐘之外 所有的順序都是逆時鐘 例如東風抓完CD兩疊共四張牌換南風抓EF兩層共四張牌 東風>南風是逆時鐘 CD>EF是順時鐘
+除了『牌被抓』的順序是順時鐘之外 所有的順序都是逆時鐘 例如東風抓完CD兩疊共四張牌換南風抓EF兩層共四張牌 東風>南風是逆時鐘 CD>EF是順時鐘
 
 ```
  ABCDEFGHIJKLMNOPQR
