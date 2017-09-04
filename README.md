@@ -2,11 +2,12 @@
 
 不限思考時間的線上單機練習: https://leoliu1313.github.io/ma/
 
-麻將原稱麻雀 和圍棋象棋一樣都是歷史悠久的東方桌遊 民國初年由大陸傳入台灣 慢慢地從廣東的十三張玩法演變成台灣的十六張玩法 麻將大致上有北京/南昌/廣東/香港/日本等幾種分支 但台灣麻將有一些從古至今全世界都沒有的限制: [自摸的更多限制](#自摸的更多限制) [過水不可胡牌的限制](#過水不可胡牌的限制) [碰槓的限制](#碰槓的限制)
+麻將原稱麻雀 和圍棋象棋一樣都是歷史悠久的東方桌遊 (複雜度: 圍棋 > 麻將 > 象棋) 民國初年由大陸傳入台灣 慢慢地從廣東的十三張玩法演變成台灣的十六張玩法 麻將大致上有北京/南昌/廣東/香港/日本等幾種分支 但台灣麻將有一些從古至今全世界都沒有的限制: [自摸的更多限制](#自摸的更多限制) [過水不可胡牌的限制](#過水不可胡牌的限制) [碰槓的限制](#碰槓的限制)
 
 ## Strategy
 
 - [依照牌理打牌](https://zh.wikibooks.org/zh-hant/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%87%E4%B8%AD%E9%9A%8E/%E4%BE%9D%E7%85%A7%E7%89%8C%E7%90%86%E6%89%93%E7%89%8C)
+- [人工智慧在麻將領域能戰勝人類嗎？](https://www.bnext.com.tw/article/42633/can-ai-beat-human-in-mahjong)
 - http://www.gametower.com.tw/Games/Freeplay/MJ/Star31/Data/teach.aspx
 - https://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=00
 - [吃碰槓的不利](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E5.89.AF.E9.9C.B2.E7.9A.84.E4.B8.8D.E5.88.A9)
