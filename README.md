@@ -4,22 +4,33 @@
 
 麻將原稱麻雀 和圍棋象棋一樣都是歷史悠久的東方桌遊 (複雜度: 圍棋 > 麻將 > 象棋) 民國初年由大陸傳入台灣 慢慢地從廣東的十三張玩法演變成台灣的十六張玩法 麻將大致上有北京/南昌/廣東/香港/日本等幾種分支 但台灣麻將有一些從古至今全世界都沒有的限制: [自摸的更多限制](#自摸的更多限制) [過水不可胡牌的限制](#過水不可胡牌的限制) [碰槓的限制](#碰槓的限制)
 
+### 台數
+
+- http://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%BA%BB%E5%B0%87#.E5.8F.B0.E6.95.B8.E8.A8.88.E7.AE.97
+- http://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=01
+- http://www.gametower.com.tw/Games/Freeplay/MJ/Star31/Data/count.aspx
+
+1台: 莊家 蓋牌(宣告聽牌) 花牌台 風圈台 風位台 三元台(紅中/發財/白板的刻子) 獨聽 門清(可以有花牌/無明槓) 自摸 槓上開花(暗槓/加槓/補花) 搶槓(胡別人加槓的那張牌) 海底撈月/河底撈魚(只要是胡最後一張都算/最後一張不可以補) 半求人(面子都靠別人組成但最後將眼獨聽自摸)
+
+2台: 連N拉N 平胡(無字/無花/無刻/無自摸/先有將聽兩面) 三暗刻 花槓(不得重複計算花牌) 全求人
+
+3台: 門清自摸(不得重複計算門清和自摸)
+
+4台: 碰碰胡 小三元(兩刻一將/不得重複計算三元台) 混一色(除了字牌都同一花色)
+
 ## Strategy
 
-- [依照牌理打牌](https://zh.wikibooks.org/zh-hant/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%87%E4%B8%AD%E9%9A%8E/%E4%BE%9D%E7%85%A7%E7%89%8C%E7%90%86%E6%89%93%E7%89%8C)
-- [人工智慧在麻將領域能戰勝人類嗎？](https://www.bnext.com.tw/article/42633/can-ai-beat-human-in-mahjong)
+- [依照牌理打牌](http://zh.wikibooks.org/zh-hant/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%87%E4%B8%AD%E9%9A%8E/%E4%BE%9D%E7%85%A7%E7%89%8C%E7%90%86%E6%89%93%E7%89%8C)
+- [人工智慧在麻將領域能戰勝人類嗎？](http://www.bnext.com.tw/article/42633/can-ai-beat-human-in-mahjong)
 - http://www.gametower.com.tw/Games/Freeplay/MJ/Star31/Data/teach.aspx
-- https://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=00
-- [吃碰槓的不利](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E5.89.AF.E9.9C.B2.E7.9A.84.E4.B8.8D.E5.88.A9)
-- [槓的不利](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E6.9D.A0.E7.9A.84.E6.9C.89.E5.88.A9.E4.B8.8E.E4.B8.8D.E5.88.A9.E4.B9.8B.E5.A4.84)
+- http://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=00
+- [吃碰槓的不利](http://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E5.89.AF.E9.9C.B2.E7.9A.84.E4.B8.8D.E5.88.A9)
+- [槓的不利](http://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E6.9D.A0.E7.9A.84.E6.9C.89.E5.88.A9.E4.B8.8E.E4.B8.8D.E5.88.A9.E4.B9.8B.E5.A4.84)
 
 ## Rules
 
-- https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%BA%BB%E5%B0%87
-- https://www.ptt.cc/man/MJ/D4A8/D874/D84/M.1217659054.A.D4C.html
-- https://www.ptt.cc/man/MJ/D4A8/D874/DEB1/M.1221627586.A.BC4.html
-- http://www.gametower.com.tw/Games/Freeplay/MJ/Star31/Data/count.aspx
-- http://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=1
+- http://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%BA%BB%E5%B0%87
+- http://www.ptt.cc/man/MJ/D4A8/D874/D84/M.1217659054.A.D4C.html
 - http://atawmj.org.tw/memu012.htm
 
 除了『牌被抓』的順序是順時鐘之外 所有的順序都是逆時鐘 例如東風抓完CD兩疊共四張牌換南風抓EF兩層共四張牌 東風>南風是逆時鐘 CD>EF是順時鐘
@@ -32,19 +43,23 @@ P                  C
 ... 總共18(A-R比牌尺略長)*2(層)*4(門風)=144張牌
 ```
 
-一局(雀/將)有四圈(風) 第一圈是東風圈 接著是南風圈和西風圈 最後是北風圈 每一圈有四位玩家輪流做莊家
+一局(雀/將)有四圈(風) 第一圈是東風圈 接著是南風圈和西風圈 最後是北風圈 每一圈有四位玩家輪流做莊家 例如東風圈有東風東/東風南/東風西/東風北 只玩1/4圈就是只玩一個莊家直到他下莊
 
 決定位置(搬風): 先隨便坐好並準備好三顆骰子和東南西北四張牌 隨便一位玩家丟三顆骰子決定哪邊是東風 東風右手邊為南風 南風右手邊為西風 西風右手邊為北風 接著按東南西北的順序抽東南西北四張牌決定自己坐在哪一個位置 坐在東風的玩家等等要決定莊家 搬風在每一局只會進行一次
 
-決定莊家(起莊): 堆牌完成後 由坐在東風的玩家幫莊家丟三顆骰子 決定誰是莊家以及從哪邊開始抓牌 起莊在每一局只會進行一次 之後由莊家自己丟三顆骰子決定從哪邊開始抓牌
+決定莊家(起莊): 堆牌完成後 由坐在東風的玩家幫莊家丟三顆骰子 決定誰是莊家以及從哪邊開始抓牌 起莊在每一局只會進行一次 之後都是由莊家自己丟三顆骰子決定從哪邊開始抓牌
 
-決定門風(開門): 抓牌完成後 由莊家先摸一張牌 這就是開門 那張牌所在的位置就是東風/1花 依序是 南風/2花 西風/3花 北風/4花 每一盤都要重新決定門風 之後再進行第一輪補花 如果有任何玩家剛好補到花等等要再進行下一輪的補花 全部補花完成後莊家再打出牌或暗槓或胡牌 如果胡牌就是天胡16台 因為無法確定自摸的是哪一張 相關的台數不計 其餘另計 如果槓上開花就不是天胡 如果打出牌後聽牌就是天聽8台 閒家如果補花後聽牌就是天聽 如果自摸就是地胡16台 如果打出牌後聽牌就是地聽4台
+http://www.gamesofa.com/mj/?op=rule_guide&topic=h1&t=02
+
+決定從哪邊開始抓牌(開門/門風/風位): 除了每一局一開始的起莊之外 之後都是由莊家自己丟三顆骰子決定從哪邊開始抓牌 開始抓牌的方位就是開門的方位 開門的方位就是東風/1花 依序是 南風/2花 西風/3花 北風/4花 每一盤都要重新決定門風
+
+補花: 抓牌完成後 由莊家先摸進一張牌(這不是開門/這不是開門的方位) 之後再進行第一輪補花 如果有任何玩家剛好補到花等等要再進行下一輪的補花 全部補花完成後莊家再打出牌或暗槓或胡牌 如果胡牌就是天胡16台 因為無法確定自摸的是哪一張 相關的台數不計 其餘另計 如果槓上開花就不是天胡 如果打出牌後聽牌就是天聽8台 閒家如果補花後聽牌就是天聽 如果自摸就是地胡16台 如果打出牌後聽牌就是地聽4台
 
 眼=將眼=雀眼=將頭=雀頭=將牌=雀牌=對子=22
 
 順子=234
 
-刻子=222
+刻子=坎子=222
 
 槓子=2222
 
@@ -57,7 +72,7 @@ P                  C
 ### 時間
 
 - [中華麻將競技協會比賽罰則](http://atawmj.org.tw/memu013.htm)
-- [日本麻將規則](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E5.89.AF.E9.9C.B2.E7.9A.84.E4.BC.98.E5.85.88.E9.A1.BA.E5.BA.8F)
+- [日本麻將規則](http://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%AC%E9%BA%BB%E5%B0%86%E8%A7%84%E5%88%99#.E5.89.AF.E9.9C.B2.E7.9A.84.E4.BC.98.E5.85.88.E9.A1.BA.E5.BA.8F)
 - [中國麻將競賽規則](https://zh.wikisource.org/zh-hant/%E4%B8%AD%E5%9B%BD%E9%BA%BB%E5%B0%86%E7%AB%9E%E8%B5%9B%E8%A7%84%E5%88%99)
 
 不管是吃牌還是抓牌後胡牌 3秒內碰牌的玩家權力最大 吃牌無效 抓牌無效 抓牌後的胡牌也無效 要吃牌或抓牌的人應先口頭詢問或等待3秒讓碰牌的玩家決定要不要碰 這是避免有心人會故意晚一點再惡碰讓吃牌胡牌無效 也避免其他玩家真的不小心沒注意到忘了立刻碰 (如果不是歡樂場打牌前請先商量好)
@@ -138,7 +153,7 @@ P                  C
 
 ## References
 
-- https://www.ptt.cc/bbs/MJ/M.1195752533.A.343.html
-- https://tw.answers.yahoo.com/question/index?qid=20050601000011KK03116
-- https://tw.answers.yahoo.com/question/index?qid=20110119000015KK08137
+- http://www.ptt.cc/bbs/MJ/M.1195752533.A.343.html
+- http://tw.answers.yahoo.com/question/index?qid=20050601000011KK03116
+- http://tw.answers.yahoo.com/question/index?qid=20110119000015KK08137
 - http://www.i-gamer.net/play/1926.html
